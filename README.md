@@ -5,6 +5,6 @@ To open this just create new project in Unity Engine and override project files 
 
 Here are videos from this game:
 
-[Film #1](https://youtu.be/58NdmOGbfo8){target="_blank"}
+[Film #1](https://youtu.be/58NdmOGbfo8)
 
 [Film #2](https://youtu.be/RmiW4ff0u58){target="_blank"}
