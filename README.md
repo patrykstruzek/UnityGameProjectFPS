@@ -1,8 +1,7 @@
 # fps_game_project
 
 [![Version](https://img.shields.io/badge/version-alpha-blue.svg)](https://semver.org)
-
-[![Build Status](https://img.shields.io/badge/build-passi-red.svg)](https://github.com/patrykstruzek/notOS/actions)
+[![Build Status](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/patrykstruzek/notOS/actions)
 
 This project was only learning project from 2021 and is no longer supported.
 To open this just create new project in Unity Engine and override project files using this files.
